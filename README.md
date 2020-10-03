@@ -6,6 +6,7 @@
 
 ## Find me on:
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/create.arduino.svg" />][arduino]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pypi.svg" />][pypi]
@@ -30,6 +31,7 @@
 
 
 [stackoverflow]:https://stackoverflow.com/users/14383505/vishal-balaji-sivaraman
+[arduino]:https://create.arduino.cc/projecthub/vishalsivaraman5
 [github]: https://github.com/The-SocialLion/
 [mail]: mailto:vishalsivaraman5@gmail.com
 [hackerrank]:https://www.hackerrank.com/vishal_bsoffici1
