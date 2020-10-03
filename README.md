@@ -8,6 +8,7 @@
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
+[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pypi.svg" />][pypi]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackster.svg" />][hackster.io]
 
@@ -33,3 +34,4 @@
 [mail]: mailto:vishalsivaraman5@gmail.com
 [hackerrank]:https://www.hackerrank.com/vishal_bsoffici1
 [hackster.io]:https://www.hackster.io/vishalsivaraman5
+[pypi]:https://pypi.org/user/SocialLion2605/
