@@ -22,7 +22,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/The-SocialLion/The-SocialLion?style=social)  
 
-![Vishal Balaji Sivaraman's github stats](https://github-readme-stats.vercel.app/api?username=The-SocialLion&count_private=true&show_icons=true&theme=onedark)
+![Vishal Balaji Sivaraman's github stats](https://github-readme-stats.vercel.app/api?username=The-SocialLion&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-SocialLion&layout=compact)](https://github.com/The-SocialLion/)
 
 
