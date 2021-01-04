@@ -9,7 +9,7 @@
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/arduino.svg" />][arduino]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][Libraries.io]
+[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][libraries.io]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pypi.svg" />][pypi]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackster.svg" />][hackster.io]
