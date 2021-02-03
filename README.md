@@ -1,8 +1,8 @@
 ## About:
 
 * An Electronics and Communication Engineering Undergrad.
-* Currently pursuing my dream of learning AI/ML,DL and cloud computing.
-* Fond of Data structures in python
+* Currently pursuing my ambition of learning AI/ML,DL and cloud computing.
+* Fond of Cicuit Designing in Electronics
 
 ## Find me on:
 [<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
