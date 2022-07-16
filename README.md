@@ -1,6 +1,6 @@
 ## About:
 
-* An Electronics and Communication Engineering Undergrad.
+* Pursuing my Graduate studies in the filed of Electrical and Computer Engineering at University of Florida .
 * Currently pursuing my ambition of learning AI/ML,DL and cloud computing.
 * Fond of Cicuit Designing in Electronics
 
